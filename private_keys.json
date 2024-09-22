@@ -1,0 +1,18 @@
+{
+    "coordinator_agent": {
+        "identity_key": "06c87c1b04a8a5655640cf2a7017a9827520c137de2f5d80b30aaf11ce3aa134",
+        "wallet_key": "077sdMLmFszM6TvEqYxaKTBfUR+BkJHsy+k4my+rJnU="
+    },
+    "agent_weather": {
+        "identity_key": "c8f3b79a6b382e0445164686579cd26b4375435db9d8762e57a3b702ac9add06",
+        "wallet_key": "xbpiqL3N7zapBp3NEpVtBn3N0yw3OXKKPt67Hq2r3F0="
+    },
+    "agent_greet": {
+        "identity_key": "2a722749828a4e8a32ad34f919266de2df2a0b50f64089afc34d6b64978ec6e0",
+        "wallet_key": "f70EJIUfhsJSOcAxMR/AgV+e3xDqRj4yl8gS9si/9RI="
+    },
+    "temp_agent": {
+        "identity_key": "77dec287fdb84af5f7f40d1f374536f6a0798c41c8c6aef6ef8b1aeb7ec4f86b",
+        "wallet_key": "/W0IhPwYu6MZFvYbb9TUUWETvmNk9pQ7NuqxpZY7rYY="
+    }
+}
